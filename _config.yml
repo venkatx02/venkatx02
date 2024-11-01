@@ -1,5 +1,5 @@
 title: Venkat Dasari
-#image = assets/images/venkat.png
+logo = assets/image/venkat.png
 description: text here
 show_download: true
 theme: jekyll_theme_minimal
