@@ -1,24 +1,5 @@
-# Aspiring Computational Scientist
-
-### Education
-**University of Massachusetts Amherst**
-Master of Science, Data Analytics and Computational Social Science 	Expected May, 2026
-Coursework: Data Science Fundamentals, Introduction to Quantitative Analysis, Data Engineering, etc.
-
-**Gandhi Institute of Technology and Management (GITAM)**
-Bachelor of Technology, Computer Science and Engineering	June, 2023
-
-### Work Experience
-**SOUTH CENTRAL RAILWAY – BHARAT SCOUTS & GUIDES**	Rajahmundry, Andhra Pradesh
-Technical Assistant (Part-time)	January, 2024 – June, 2024
-•	Generated reports and dashboards to help with decision making, resulting in an increase of member count from 400 to 900 within 3 months.
-•	Created, managed and updated more than 500 member profiles and members data.
-•	Coordinated cultural events, social and adventure programmes, in collaboration with indian railways, public offices, schools and local clubs
-
-**TATA ELXSI**	Trivandrum, Kerala
-Engineer Intern	February, 2023 – June, 2023
-•	Researched on embedded product engineering & networking concepts in the automotive design, reported to manager and team members with daily presentations.
-•	Designed and developed a responsive user interface for a resume parsing application which aims to improve the efficiency of HR and project management teams.
+I'm a Graduate Student in the Data Analytics and Computational Social Science (DACSS) program at the University of Massachusetts Amherst. With a Bachelor's degree in Computer Science & Engineering and some experience in the corporate environment, my expertise lies in Web Application Development and Machine Learning. I'm currently exploring the research prospects around the Computational and Social Sciences.
+I represented Hex Esports, Minus 40 Club and some other organizations in the PUBG MOBILE competitive scene as an academic esports player. I spend my leisure playing video games and cooking. Sometimes I like to travel and grab some memories in the form of photographs.
 
 
 
